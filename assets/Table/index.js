@@ -1,8 +1,4 @@
-System.register("chunks:///_virtual/Table", [], function () {
-  return {
-    execute: function () {}
-  };
-});
+System.register("chunks:///_virtual/Table",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
   r('virtual:///prerequisite-imports/Table', 'chunks:///_virtual/Table'); 

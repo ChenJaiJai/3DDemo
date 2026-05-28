@@ -1,8 +1,4 @@
-System.register("chunks:///_virtual/BackGround", [], function () {
-  return {
-    execute: function () {}
-  };
-});
+System.register("chunks:///_virtual/BackGround",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
   r('virtual:///prerequisite-imports/BackGround', 'chunks:///_virtual/BackGround'); 
